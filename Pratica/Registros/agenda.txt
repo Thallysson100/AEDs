@@ -1,0 +1,10 @@
+José 123456789 Alfenas jose1@gmail.com
+Joao 112233445 Alfenas j@gmail.com
+Maria 987654321 Alfenas maria@gmail.com
+Pedro 876543210 São_Paulo pedro@gmail.com
+Carolina 321654987 Rio_de_Janeiro carolina@gmail.com
+Lucas 456789123 Brasília lucas@gmail.com
+Camila 987654123 Curitiba camila@gmail.com
+Thiago 654321789 Porto_Alegre thiago@gmail.com
+Gabriela 345678912 Salvador gabriela@gmail.com
+fim

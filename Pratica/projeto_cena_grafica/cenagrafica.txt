@@ -1,0 +1,10 @@
+cubo 5
+paralelepipedo 1 2 3
+esfera 4.3
+quadrado 6.52
+circulo 4.67
+retangulo 3.41 4.89
+cilindro 6.32 2.36
+cone 4.55 12.44
+triangulo 2.14 6.23
+fim
